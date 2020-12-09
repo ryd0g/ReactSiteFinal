@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/ReactSiteFinal/static/css/main.4020fcae.chunk.css",
-    "main.js": "/ReactSiteFinal/static/js/main.c5549814.chunk.js",
-    "main.js.map": "/ReactSiteFinal/static/js/main.c5549814.chunk.js.map",
+    "main.js": "/ReactSiteFinal/static/js/main.0ad250d5.chunk.js",
+    "main.js.map": "/ReactSiteFinal/static/js/main.0ad250d5.chunk.js.map",
     "runtime-main.js": "/ReactSiteFinal/static/js/runtime-main.bd382fc4.js",
     "runtime-main.js.map": "/ReactSiteFinal/static/js/runtime-main.bd382fc4.js.map",
     "static/css/2.fbe03857.chunk.css": "/ReactSiteFinal/static/css/2.fbe03857.chunk.css",
-    "static/js/2.292c596c.chunk.js": "/ReactSiteFinal/static/js/2.292c596c.chunk.js",
-    "static/js/2.292c596c.chunk.js.map": "/ReactSiteFinal/static/js/2.292c596c.chunk.js.map",
+    "static/js/2.ee9335d6.chunk.js": "/ReactSiteFinal/static/js/2.ee9335d6.chunk.js",
+    "static/js/2.ee9335d6.chunk.js.map": "/ReactSiteFinal/static/js/2.ee9335d6.chunk.js.map",
     "static/js/3.8fb052b5.chunk.js": "/ReactSiteFinal/static/js/3.8fb052b5.chunk.js",
     "static/js/3.8fb052b5.chunk.js.map": "/ReactSiteFinal/static/js/3.8fb052b5.chunk.js.map",
     "index.html": "/ReactSiteFinal/index.html",
     "static/css/2.fbe03857.chunk.css.map": "/ReactSiteFinal/static/css/2.fbe03857.chunk.css.map",
     "static/css/main.4020fcae.chunk.css.map": "/ReactSiteFinal/static/css/main.4020fcae.chunk.css.map",
-    "static/js/2.292c596c.chunk.js.LICENSE.txt": "/ReactSiteFinal/static/js/2.292c596c.chunk.js.LICENSE.txt",
+    "static/js/2.ee9335d6.chunk.js.LICENSE.txt": "/ReactSiteFinal/static/js/2.ee9335d6.chunk.js.LICENSE.txt",
     "static/media/Footer.css": "/ReactSiteFinal/static/media/woodbg.d0013189.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bd382fc4.js",
     "static/css/2.fbe03857.chunk.css",
-    "static/js/2.292c596c.chunk.js",
+    "static/js/2.ee9335d6.chunk.js",
     "static/css/main.4020fcae.chunk.css",
-    "static/js/main.c5549814.chunk.js"
+    "static/js/main.0ad250d5.chunk.js"
   ]
 }
