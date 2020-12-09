@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactsitefinal/static/css/main.3233484a.chunk.css",
+    "main.js": "/reactsitefinal/static/js/main.8f6da465.chunk.js",
+    "main.js.map": "/reactsitefinal/static/js/main.8f6da465.chunk.js.map",
+    "runtime-main.js": "/reactsitefinal/static/js/runtime-main.5fcba30a.js",
+    "runtime-main.js.map": "/reactsitefinal/static/js/runtime-main.5fcba30a.js.map",
+    "static/css/2.fbe03857.chunk.css": "/reactsitefinal/static/css/2.fbe03857.chunk.css",
+    "static/js/2.5c634ff2.chunk.js": "/reactsitefinal/static/js/2.5c634ff2.chunk.js",
+    "static/js/2.5c634ff2.chunk.js.map": "/reactsitefinal/static/js/2.5c634ff2.chunk.js.map",
+    "static/js/3.50382b76.chunk.js": "/reactsitefinal/static/js/3.50382b76.chunk.js",
+    "static/js/3.50382b76.chunk.js.map": "/reactsitefinal/static/js/3.50382b76.chunk.js.map",
+    "index.html": "/reactsitefinal/index.html",
+    "static/css/2.fbe03857.chunk.css.map": "/reactsitefinal/static/css/2.fbe03857.chunk.css.map",
+    "static/css/main.3233484a.chunk.css.map": "/reactsitefinal/static/css/main.3233484a.chunk.css.map",
+    "static/js/2.5c634ff2.chunk.js.LICENSE.txt": "/reactsitefinal/static/js/2.5c634ff2.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/reactsitefinal/static/media/woodbg.d0013189.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fcba30a.js",
+    "static/css/2.fbe03857.chunk.css",
+    "static/js/2.5c634ff2.chunk.js",
+    "static/css/main.3233484a.chunk.css",
+    "static/js/main.8f6da465.chunk.js"
+  ]
+}
