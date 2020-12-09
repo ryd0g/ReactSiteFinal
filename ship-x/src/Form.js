@@ -1,16 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Form.css';
 import React from 'react';
+import ReactDOM from 'react-dom';
 
-class Form extends React.Comoponent {
-  constructor(props) {
-    super(props);
-    this.state = { value: '' };
-  }
-
-  handleChange(event) {
-    this.setState({ value: event.target.value });
-  }
+class Form extends React.Component {
   render() {
     return (
       <section id='CTA'>
@@ -20,13 +13,13 @@ class Form extends React.Comoponent {
             <form class='form-inline' action='javascript:void(0);'>
               <input
                 type='text'
-                value={this.state.value}
-                onChange={this.handleChange}
+                class='form-control mb-2 mr-sm-2'
+                placeholder='Name'
               />
               <input
                 type='text'
-                value={this.state.value}
-                onChange={this.handleChange}
+                class='form-control mb-2 mr-sm-2'
+                placeholder='Email'
               />
               <input type='date' class='form-control mb-2 mr-sm-2' />
               <label for='message'>Any questions or comments?</label>
@@ -54,4 +47,6 @@ class Form extends React.Comoponent {
     );
   }
 }
+ReactDOM.render(<Form />, document.getElementById('root'));
+
 export default Form;
