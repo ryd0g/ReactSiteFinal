@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/ReactSiteFinal/static/css/main.4020fcae.chunk.css",
-    "main.js": "/ReactSiteFinal/static/js/main.ace0e903.chunk.js",
-    "main.js.map": "/ReactSiteFinal/static/js/main.ace0e903.chunk.js.map",
-    "runtime-main.js": "/ReactSiteFinal/static/js/runtime-main.da8edd65.js",
-    "runtime-main.js.map": "/ReactSiteFinal/static/js/runtime-main.da8edd65.js.map",
+    "main.js": "/ReactSiteFinal/static/js/main.c5549814.chunk.js",
+    "main.js.map": "/ReactSiteFinal/static/js/main.c5549814.chunk.js.map",
+    "runtime-main.js": "/ReactSiteFinal/static/js/runtime-main.bd382fc4.js",
+    "runtime-main.js.map": "/ReactSiteFinal/static/js/runtime-main.bd382fc4.js.map",
     "static/css/2.fbe03857.chunk.css": "/ReactSiteFinal/static/css/2.fbe03857.chunk.css",
-    "static/js/2.5c634ff2.chunk.js": "/ReactSiteFinal/static/js/2.5c634ff2.chunk.js",
-    "static/js/2.5c634ff2.chunk.js.map": "/ReactSiteFinal/static/js/2.5c634ff2.chunk.js.map",
-    "static/js/3.50382b76.chunk.js": "/ReactSiteFinal/static/js/3.50382b76.chunk.js",
-    "static/js/3.50382b76.chunk.js.map": "/ReactSiteFinal/static/js/3.50382b76.chunk.js.map",
+    "static/js/2.292c596c.chunk.js": "/ReactSiteFinal/static/js/2.292c596c.chunk.js",
+    "static/js/2.292c596c.chunk.js.map": "/ReactSiteFinal/static/js/2.292c596c.chunk.js.map",
+    "static/js/3.8fb052b5.chunk.js": "/ReactSiteFinal/static/js/3.8fb052b5.chunk.js",
+    "static/js/3.8fb052b5.chunk.js.map": "/ReactSiteFinal/static/js/3.8fb052b5.chunk.js.map",
     "index.html": "/ReactSiteFinal/index.html",
     "static/css/2.fbe03857.chunk.css.map": "/ReactSiteFinal/static/css/2.fbe03857.chunk.css.map",
     "static/css/main.4020fcae.chunk.css.map": "/ReactSiteFinal/static/css/main.4020fcae.chunk.css.map",
-    "static/js/2.5c634ff2.chunk.js.LICENSE.txt": "/ReactSiteFinal/static/js/2.5c634ff2.chunk.js.LICENSE.txt",
+    "static/js/2.292c596c.chunk.js.LICENSE.txt": "/ReactSiteFinal/static/js/2.292c596c.chunk.js.LICENSE.txt",
     "static/media/Footer.css": "/ReactSiteFinal/static/media/woodbg.d0013189.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.da8edd65.js",
+    "static/js/runtime-main.bd382fc4.js",
     "static/css/2.fbe03857.chunk.css",
-    "static/js/2.5c634ff2.chunk.js",
+    "static/js/2.292c596c.chunk.js",
     "static/css/main.4020fcae.chunk.css",
-    "static/js/main.ace0e903.chunk.js"
+    "static/js/main.c5549814.chunk.js"
   ]
 }
