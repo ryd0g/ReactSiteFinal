@@ -19,6 +19,11 @@ function Form() {
               placeholder='Email'
             />
             <input type='date' class='form-control mb-2 mr-sm-2' />
+            <label for='message'>Any questions or comments?</label>
+            <textarea
+              class='form-control mb-2 mr-sm-2'
+              id='message'
+              rows='3'></textarea>
             <button class='btn btn-primary mb-2' id='submit'>
               Submit
             </button>
