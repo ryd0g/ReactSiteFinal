@@ -19,7 +19,7 @@ function Navbar() {
             Menu
           </a>
           <div class='dropdown-menu' aria-labelledby='dropdownMenuButton'>
-            <a class='dropdown-item' href='homepage.html'>
+            <a class='dropdown-item' href='#'>
               Home
             </a>
           </div>

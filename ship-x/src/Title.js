@@ -7,9 +7,6 @@ function Title() {
       <div class='jumbotron text-center'>
         <h1>Ship-X</h1>
         <p class='lead'>Getting your products shipped the right way!</p>
-        <a href='about.html' class='btn btn-primary'>
-          Learn More
-        </a>
       </div>
     </section>
   );
